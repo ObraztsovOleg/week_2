@@ -1,1 +1,0 @@
-(()=>{"use strict";var s=function(s){return s+this.slash+this.track}.bind({slash:"/",track:"plain"});console.log(s("task"))})();
